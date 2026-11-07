@@ -1,2 +1,1 @@
-# t-i-li-u-Fintech
-các môn mình từng học
+Bai_tap_LON
